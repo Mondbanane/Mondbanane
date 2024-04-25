@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mondbanane
+# 👋 Hi, I’m Mondbanane
 - 🌱 I’m currently learning for school
 
 <!---
