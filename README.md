@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mondbanane
+# 👋 Hi what’s up guys
 - 🌱 I’m currently learning for school
 
 <!---
